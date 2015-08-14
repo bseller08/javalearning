@@ -14,7 +14,6 @@ public class StringUtilsTest {
             System.out.println("2222-------------------------");
         } catch (NullPointerException e) {
             System.out.println("1111-------------------------");
-            throw new RuntimeException(e);
         } finally {
             System.out.println("3333-------------------------");
         }
