@@ -1,7 +1,4 @@
-package com.my.lecture1;
-
-import java.util.ArrayList;
-import java.util.List;
+package lecture1;
 
 public class Lecture1 {
 

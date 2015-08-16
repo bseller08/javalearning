@@ -1,4 +1,4 @@
-package com.my.lecture1;
+package lecture1;
 
 public class Driver {
 

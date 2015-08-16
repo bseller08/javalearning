@@ -1,12 +1,8 @@
-package com.my.lecture1;
+package lecture1;
 
-public abstract class Transport {
+public interface Transport {
 
-    abstract void move();
-
-    public void add() {
-        System.out.println();
-    }
+    public void move();
 
     /**
      *
